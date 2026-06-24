@@ -1,3 +1,0 @@
-[System] Successfully loaded data from dump.db.
-=== KVStore server started, listening on port 8888 ===
-
